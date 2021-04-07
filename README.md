@@ -1,5 +1,6 @@
 # go-pop3-harvest
-Small golang based commandline app to get all emails from a simple pop3 server.
+Small golang based commandline app to get all emails from a simple pop3 server.  
+This is just a little tool I created for a specific use case with no intention of being super stable.
 
 ## Usage 
 ```sh
